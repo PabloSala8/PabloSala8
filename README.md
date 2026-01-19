@@ -9,14 +9,13 @@ I build **practical AI products** that turn data into real business value.
 I enjoy working at the intersection of **AI, data, and product**, using Python and low-code tools to ship scalable, production-ready solutions.
 
 ## Tools & Skills
-- **Languages:** Python, SQL  
-- **AI / ML:** RAG, LangChain, LLMs, Basic Orchestration
+- **Languages:** Python, SQL
 - **Data:** Pandas, Excel, data cleaning & analysis  
-- **Automation:** n8n, low-code workflows  
+- **AI:** RAG, LangChain, LLMs, Basic Orchestration, n8n, low-code workflows; APIs 
 
 ## Fun facts
 - 🛠️ Trained as a **Mechanical Engineer**, now building AI-powered products  
-- 👕 Founder of a small **clothing brand** (creative outlet meets discipline)  
+- 👕 Founder of a small **clothing brand** 
 - 💸 **Finance enthusiast** — always learning how money, markets, and businesses work  
 - 🏋️ Gym rat — consistency, strength, and long-term progress matter on and off code
 
