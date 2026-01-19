@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Pablo 👋
 
-<!--
-**PabloSala8/PabloSala8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build **practical AI products** that turn data into real business value.
 
-Here are some ideas to get you started:
+- 🤖 AI workflows, automation & RAG-based systems  
+- 📊 Data analysis and ML for decision-making  
+- 💰 Growing focus on **finance & business use cases**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy working at the intersection of **AI, data, and product**, using Python and low-code tools to ship scalable, production-ready solutions.
+
+## Tools & Skills
+- **Languages:** Python, SQL  
+- **AI / ML:** RAG, LangChain, LLMs, Basic Orchestration
+- **Data:** Pandas, Excel, data cleaning & analysis  
+- **Automation:** n8n, low-code workflows  
+
+## Fun facts
+- 🛠️ Trained as a **Mechanical Engineer**, now building AI-powered products  
+- 👕 Founder of a small **clothing brand** (creative outlet meets discipline)  
+- 💸 **Finance enthusiast** — always learning how money, markets, and businesses work  
+- 🏋️ Gym rat — consistency, strength, and long-term progress matter on and off code
+
+📍 Medellín, Colombia  
+🔗 LinkedIn: https://www.linkedin.com/in/pablo-salazar-b4926525a
