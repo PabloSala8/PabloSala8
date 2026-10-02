@@ -1,12 +1,12 @@
 # Hi, I'm Pablo 👋
 
-I build **practical AI products** that turn data into real business value.
+I build **practical AI products** that turn data into real business value. Focused on creating, scaling, and preserving value across individuals and organizations.
 
+- 💰 Growing focus on **Finance, Asset Management & Business use cases**
 - 🤖 AI workflows, automation & RAG-based systems  
 - 📊 Data analysis and ML for decision-making  
-- 💰 Growing focus on **finance & business use cases**
 
-I enjoy working at the intersection of **AI, data, and product**, using Python and low-code tools to ship scalable, production-ready solutions.
+I enjoy working at the intersection of **AI, Finance, and data**, using Python and low-code tools to ship scalable, production-ready solutions.
 
 ## Tools & Skills
 - **Languages:** Python, SQL
@@ -14,6 +14,7 @@ I enjoy working at the intersection of **AI, data, and product**, using Python a
 - **AI:** RAG, LangChain, LLMs, Basic Orchestration, n8n, low-code workflows; APIs 
 
 ## Fun facts
+- Passionate about Finance and Investment. How money works and hoy value is created. 
 - 🛠️ Trained as a **Mechanical Engineer**, now building AI-powered products  
 - 👕 Founder of a small **clothing brand** 
 - 💸 **Finance enthusiast** — always learning how money, markets, and businesses work  
